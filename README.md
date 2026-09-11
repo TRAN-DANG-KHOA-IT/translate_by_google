@@ -107,7 +107,7 @@ select.goog-te-combo {
     appearance: none !important;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background: url('https://raw.githubusercontent.com/CodeWithKhoa/Styled-Google-Translate-Widget/main/images/translate.png') no-repeat center;
+    background: url('https://raw.githubusercontent.com/TranDangKhoaAutomation/Styled-Google-Translate-Widget/main/images/translate.png') no-repeat center;
     background-color: transparent !important;
     background-size: 20px 20px;
     text-indent: -9999px;
@@ -143,9 +143,9 @@ You can easily change the following parameters in the `style.css` file:
 Contributions and ideas are welcome! Feel free to create a **Pull Request** or open an **Issue** to discuss what you'd like to change.
 
 ## 👨‍💻 Author
-This project was created and is maintained by **Tran Dang Khoa (CodeWithKhoa)**.
+This project was created and is maintained by **Tran Dang Khoa (TranDangKhoaAutomation)**.
 
-* **GitHub**: https://github.com/codewithkhoa
+* **GitHub**: https://github.com/TranDangKhoaAutomation
 
 * **YouTube**: https://youtube.com/@codewithkhoa
 
